@@ -19,13 +19,13 @@
 
 Sheet Material Inventory Overview:
 
-![Welcome Inventory](public/images/HDC-Welcome-Inventory.png)
+![Welcome Inventory](public/images/HDC-Welcome-Inventory.PNG)
 
-![Overview Chart](public/images/HDC-Chart-Inv.png)
+![Overview Chart](public/images/HDC-Chart-Inv.PNG)
 
-![Overview](public/images/HDC-Overview-Inv.png)
+![Overview](public/images/HDC-Overview-Inv.PNG)
 
-![Clear All Totals](public/images/HDC-Inv-ClearAllTotals.png)
+![Clear All Totals](public/images/HDC-Inv-ClearAllTotals.PNG)
 
 ### Locations
 The **Sheet Material Inventory** is divided into multiple locations, each having specific tabs for managing inventory:
@@ -36,7 +36,7 @@ The **Sheet Material Inventory** is divided into multiple locations, each having
 - **Trailer:** One Overview tab and multiple tabs for each trailer (e.g., S-170).
 - **Floor:** Four tabs - Overview, Skids, Cartons, Misc.
 
-![Each Location Chart](public/images/HDC-Inv-Location-charts.png)
+![Each Location Chart](public/images/HDC-Inv-Location-charts.PNG)
 
 ---
 
@@ -54,7 +54,7 @@ The **Sheet Material Inventory** is divided into multiple locations, each having
 - Pull Products
   - **move product to different locations**
 
-![Overview Tab](public/images/HDC-Inv-Location-Overview.png)
+![Overview Tab](public/images/HDC-Inv-Location-Overview.PNG)
 
 ### All Other Tabs
 - **Checkbox Selection:** Use checkboxes to:
@@ -64,7 +64,7 @@ The **Sheet Material Inventory** is divided into multiple locations, each having
 - **Editable Columns:** Double-click to edit specific columns:
   - `QtyPerSkid`, `Qty Skids`, `QtyPerCarton`, `Qty Cartons`, `Date Time`, `Notes`
 
-![Pull Product](public/images/HDC-Inv-PullProduct.png)
+![Pull Product](public/images/HDC-Inv-PullProduct.PNG)
 
 ![Add Row](public/images/HDC-Inv-AddRow.png)
 
