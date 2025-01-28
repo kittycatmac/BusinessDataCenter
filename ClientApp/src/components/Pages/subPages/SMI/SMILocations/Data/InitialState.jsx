@@ -1,0 +1,26 @@
+
+
+export const initialState = {
+    gridId: "",
+    smiId: "",
+    productId:  "",
+    smiDesc: "",
+    smiLength: "",
+    smiWidth: "",
+    smiType: "",
+    smiBwt: "",
+    smiCaliper: "",
+    smiQoh: "",
+    qtyPerSkid:  "",
+    qtyPerCarton:  "",
+    quantitySkids:  "",
+    quantityCartons:  "",
+    totalQty: "",
+    inches: "",
+    tab: "",
+    totalLooseQty: "",
+    totalOH: "",
+    dateTime: "",
+    location: "",
+    notes: "",
+};

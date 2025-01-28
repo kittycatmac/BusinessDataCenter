@@ -1,0 +1,79 @@
+body {
+  /* background-color: #202b3b;
+  color: #fff; */
+  overflow-x: hidden;
+}
+
+.container {
+  position: absolute;
+  top: 100px;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:focus {
+  transition: background-color 600000s 0s, color 600000s 0s;
+}
+
+a {
+  color: #748599;
+}
+
+.float-right {
+  float: right;
+}
+
+.float-left {
+  float: left;
+}
+
+.center {
+  text-align: center;
+}
+
+.hover-el:hover {
+  background-color: #8498b5 !important; 
+}
+
+.pagination .page-item .page-link {
+  color:#2f71d4
+}
+
+.pagination .page-item.active .page-link {
+  background-color: #4471b3;
+}
+
+ul.pagination .page-item:hover {
+  color: #4471b3;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #15171c; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #555; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #4471b3; 
+}
+
+@media (min-width: 1200px) {
+    .container {
+      max-width: 100%;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 100%;
+  }
+}
