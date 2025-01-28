@@ -97,7 +97,7 @@ The **Sheet Material Inventory** is divided into multiple locations, each having
 - Navigate to: **Job Performance → Client Surveys → Quality Surveys**
 - Displays job surveys, covering one day's worth of completed jobs from seven days ago.
 
-![On Time Ready Surveys](ClientApp/public/img/HDC-Surveys-recent-onTime.PNG)
+![Quality Ready Surveys](ClientApp/public/img/HDC-Surveys-jobQuality.PNG)
 
 ---
 
