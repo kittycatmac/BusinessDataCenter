@@ -19,13 +19,13 @@
 
 Sheet Material Inventory Overview:
 
-![Welcome Inventory](public/img/HDC-Welcome-Inventory.PNG)
+![Welcome Inventory](ClientApp/public/img/HDC-Welcome-Inventory.PNG)
 
-![Overview Chart](public/img/HDC-Chart-Inv.PNG)
+![Overview Chart](ClientApp/public/img/HDC-Chart-Inv.PNG)
 
-![Overview](public/img/HDC-Overview-Inv.PNG)
+![Overview](ClientApp/public/img/HDC-Overview-Inv.PNG)
 
-![Clear All Totals](public/img/HDC-Inv-ClearAllTotals.PNG)
+![Clear All Totals](ClientApp/public/img/HDC-Inv-ClearAllTotals.PNG)
 
 ### Locations
 The **Sheet Material Inventory** is divided into multiple locations, each having specific tabs for managing inventory:
@@ -36,7 +36,7 @@ The **Sheet Material Inventory** is divided into multiple locations, each having
 - **Trailer:** One Overview tab and multiple tabs for each trailer (e.g., S-170).
 - **Floor:** Four tabs - Overview, Skids, Cartons, Misc.
 
-![Each Location Chart](public/img/HDC-Inv-Location-charts.PNG)
+![Each Location Chart](ClientApp/public/img/HDC-Inv-Location-charts.PNG)
 
 ---
 
@@ -54,7 +54,7 @@ The **Sheet Material Inventory** is divided into multiple locations, each having
 - Pull Products
   - **move product to different locations**
 
-![Overview Tab](public/img/HDC-Inv-Location-Overview.PNG)
+![Overview Tab](ClientApp/public/img/HDC-Inv-Location-Overview.PNG)
 
 ### All Other Tabs
 - **Checkbox Selection:** Use checkboxes to:
@@ -64,11 +64,11 @@ The **Sheet Material Inventory** is divided into multiple locations, each having
 - **Editable Columns:** Double-click to edit specific columns:
   - `QtyPerSkid`, `Qty Skids`, `QtyPerCarton`, `Qty Cartons`, `Date Time`, `Notes`
 
-![Pull Product](public/img/HDC-Inv-PullProduct.PNG)
+![Pull Product](ClientApp/public/img/HDC-Inv-PullProduct.PNG)
 
-![Add Row](public/img/HDC-Inv-AddRow.PNG)
+![Add Row](ClientApp/public/img/HDC-Inv-AddRow.PNG)
 
-![Delete Row](public/img/HDC-Inv-DeleteRow.PNG)
+![Delete Row](ClientApp/public/img/HDC-Inv-DeleteRow.PNG)
 
 ### Table Edit Hot Keys
 - Double-click a cell to edit, press **Enter** to confirm and move to the cell below, repeating the process vertically within a column.
@@ -83,21 +83,21 @@ The **Sheet Material Inventory** is divided into multiple locations, each having
 
 ## Shipment and Job Surveys
 
-![Overview Chart](public/img/HDC-Surveys-Overview-Charts.PNG)
+![Overview Chart](ClientApp/public/img/HDC-Surveys-Overview-Charts.PNG)
 
-![Daily for the Month Chart](public/img/HDC-Surveys-Day-Chart.PNG)
+![Daily for the Month Chart](ClientApp/public/img/HDC-Surveys-Day-Chart.PNG)
 
 ### On Time Surveys
 - Navigate to: **Job Performance → Client Surveys → On Time Surveys**
 - Displays daily shipment surveys, covering one day back from the current date.
 
-![On Time Ready Surveys](public/img/HDC-Surveys-recent-onTime.PNG)
+![On Time Ready Surveys](ClientApp/public/img/HDC-Surveys-recent-onTime.PNG)
 
 ### Quality Surveys
 - Navigate to: **Job Performance → Client Surveys → Quality Surveys**
 - Displays job surveys, covering one day's worth of completed jobs from seven days ago.
 
-![On Time Ready Surveys](public/img/HDC-Surveys-recent-onTime.PNG)
+![On Time Ready Surveys](ClientApp/public/img/HDC-Surveys-recent-onTime.PNG)
 
 ---
 
@@ -105,9 +105,9 @@ The **Sheet Material Inventory** is divided into multiple locations, each having
 - **On Time Surveys:** Use job ID or shipment ID to search and edit/add surveys. Check daily emails for incomplete or missing surveys in the CSV file.
 - **Quality Surveys:** Use job ID to search and edit/add surveys. Refer to the daily emails for missing data.
 
-![On Time Edit Surveys](public/img/HDC-Surveys-onTime-edit.PNG)
+![On Time Edit Surveys](ClientApp/public/img/HDC-Surveys-onTime-edit.PNG)
 
-![Quality Edit Surveys](public/img/HDC-Surveys-Quality-edit.PNG)
+![Quality Edit Surveys](ClientApp/public/img/HDC-Surveys-Quality-edit.PNG)
 
 ---
 
@@ -115,12 +115,12 @@ The **Sheet Material Inventory** is divided into multiple locations, each having
 
 - **Search Shipments:** Use job ID to search JMS to find shipments, then use shipment ids to edit surveys.
 
-![Search Shipments](public/img/HDC-search-shipments.PNG)
+![Search Shipments](ClientApp/public/img/HDC-search-shipments.PNG)
 
 ---
 
 ## Light Theme UI
 
-![Inventory](public/img/HDC-Inv-UI.PNG)
+![Inventory](ClientApp/public/img/HDC-Inv-UI.PNG)
 
-![Mobile UI](public/img/phone-responsive-hdc-ui.PNG)
+![Mobile UI](ClientApp/public/img/phone-responsive-hdc-ui.PNG)
